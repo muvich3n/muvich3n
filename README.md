@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm yiyang, a maker enjoys shipping things through design and code, with ownership and love.
+I'm yiyang, a maker enjoys shipping things through design and code.
 
 <!--
 **muvich3n/muvich3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
