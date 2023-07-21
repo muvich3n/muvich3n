@@ -1,4 +1,4 @@
-### design by moving pixels, craft by writing code, ship with love.
+### I code my design
 
 <!--
 **muvich3n/muvich3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
