@@ -1,5 +1,5 @@
 <p align="center">
-  <image width="1000" src="https://github.com/muvich3n/muvich3n/assets/75461217/1dee2a44-1b97-4839-b9ce-e61ae01412bc"/>
+  <image width="1000" src="https://github.com/muvich3n/muvich3n/assets/75461217/06559c08-1fd2-41e4-a333-c17fb495d054"/>
 </p>
 
-<!-- inspired by @yetone --> 
+<!-- inspired by @yetone -->
